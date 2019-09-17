@@ -9,3 +9,7 @@
 该系列视频里面的相关代码，可以参考
 - https://github.com/1031089692/review
 - https://github.com/dong-pro/py_train
+
+第四个视频教程 https://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002 作者无闻 
+- 控制语句
+- 数组
