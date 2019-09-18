@@ -13,3 +13,5 @@
 第四个视频教程 https://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002 作者无闻 
 - 控制语句
 - 数组
+
+14 周，炼成为 20k + 的 go 开发工程师    http://www.97yrbl.com/t-118.html  https://studygolang.com/articles/22456?fr=sidebar
