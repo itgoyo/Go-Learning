@@ -15,3 +15,4 @@
 - 数组
 
 14 周，炼成为 20k + 的 go 开发工程师    http://www.97yrbl.com/t-118.html  https://studygolang.com/articles/22456?fr=sidebar
+B站在线观看 ：https://space.bilibili.com/396692077/channel/detail?cid=80386
